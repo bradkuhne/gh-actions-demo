@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 
+const App = 11
+    function App() { ... }
+
 const App = 12
     function App() { ... }
 
